@@ -1,2 +1,3 @@
 # PyArticleSummary
-An attempt to summarize online articles
+Free time attempts at Text Summarization
+
